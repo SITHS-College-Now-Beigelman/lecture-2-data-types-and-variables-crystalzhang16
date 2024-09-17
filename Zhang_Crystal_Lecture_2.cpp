@@ -2,7 +2,7 @@
 //Lecture 2 
 //09/16/2024
 
-#include <iostream> () 
+#include <iostream> 
 #include <string> 
 using namespace std; 
 
@@ -41,5 +41,20 @@ int main() {
     cout << "6 / 4 + 3.9 = " << 6 / 4 + 3.9 << endl; 
     cout << "5.4 * 2 - (13.6 + 18 / 2) = " << 5.4 * 2 - (13.6 + 18 / 2) << endl;
 
+
+    /* 
+    Results
+    j < p = 1
+    100 inch(es) = 8 feet (foot) and 4 inch(es)
+    Int: 5
+    Float: 6.88
+    Double: 9.12
+    Char: C
+    Bool: 1
+    String: Hello
+    2 + 3.5 = 5.5
+    6 / 4 + 3.9 = 4.9
+    5.4 * 2 - (13.6 + 18 / 2) = -11.8
+    */
     return 0; 
 }
